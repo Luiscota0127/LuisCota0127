@@ -74,6 +74,8 @@ A progressive web app that replaces Notion for daily notes. Free text is the sou
 **Stack:** TypeScript · Next.js 16 · React 19 · Supabase · Tailwind CSS 4 · Vitest
 
 ### desayunos-web — Offline-First Order Management
+*Private project — happy to walk through the architecture.*
+
 An Angular business app for a delivery operation, designed to keep working when the network does not.
 
 **Highlights**
